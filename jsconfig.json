@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  },
+
+  "rules": {
+    "no-unused-vars": "off"
+  }
+}
